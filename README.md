@@ -1,6 +1,6 @@
 # Uso de la Clase `Filter` en Apps Script
 
-![Google Apps Script](https://upload.wikimedia.org/wikipedia/commons/2/2a/Google_Sheets_logo.svg)
+![Google Apps Script](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1024px-Google_Apps_Script.svg.png)
 
 ## Descripción
 
